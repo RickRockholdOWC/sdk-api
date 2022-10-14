@@ -92,5 +92,6 @@ For more information, see [NTSTATUS Values](/windows-hardware/drivers/kernel/nts
 
 * [DeviceIoControl](../ioapiset/nf-ioapiset-deviceiocontrol.md)
 * [FSCTL_GET_INTEGRITY_INFORMATION](ni-winioctl-fsctl_get_integrity_information.md)
+* [REPAIR_COPIES_INPUT](ns-winioctl-repair_copies_inputmd)
 * [REPAIR_COPIES_OUTPUT](ns-winioctl-repair_copies_output.md)
 * [Volume Management Control Codes](/windows/desktop/FileIO/volume-management-control-codes)
